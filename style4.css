@@ -1,0 +1,30 @@
+p{
+	font-family: Arial; 
+	font-size: 20px;
+	margin-left:60px;
+}
+h3{
+	font-family: Arial; 
+	font-size: 26x;
+	margin-left:60px;
+}
+h4{
+	font-family: Arial; 
+	font-size: 20px;
+	margin-left: 60px;
+	color: #0056FD;
+}
+h6{
+	font-family: Arial;
+	 font-size: 15px;
+	 margin-left:60px;
+	 color: #818181
+}
+span{
+	font-family: Arial; 
+	font-size: 20px;
+	margin-left: 200px;
+}
+nav, header{
+	background-color: #FFF846;
+}
